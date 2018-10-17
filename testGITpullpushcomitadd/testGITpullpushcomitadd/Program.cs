@@ -15,7 +15,7 @@ namespace testGITpullpushcomitadd
 		public static void Main(string[] args)
 		{
 			
-			Console.WriteLine("tape un truc : ");
+			Console.WriteLine("que voulez-vous taper : ");
 			String toto = Console.ReadLine();
 			
 			Console.Write(toto);
