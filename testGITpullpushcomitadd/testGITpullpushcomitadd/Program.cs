@@ -22,7 +22,7 @@ namespace testGITpullpushcomitadd
 			
 			// TODO: Implement Functionality Here
 			
-			Console.Write("Press any key to continue . . . ");
+			Console.Write(toto + "Press any key to continue . . . ");
 			Console.ReadKey(true);
 		}
 	}
