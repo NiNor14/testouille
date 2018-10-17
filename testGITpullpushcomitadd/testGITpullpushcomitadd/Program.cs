@@ -14,7 +14,11 @@ namespace testGITpullpushcomitadd
 	{
 		public static void Main(string[] args)
 		{
-			Console.WriteLine("Hello World!");
+			
+			Console.WriteLine("tape un truc : ");
+			String toto = Console.ReadLine();
+			
+			Console.Write(toto);
 			
 			// TODO: Implement Functionality Here
 			
